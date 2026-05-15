@@ -1,0 +1,21 @@
+﻿video_path,gt_label,pred_label_raw,pred_label_canonical,confidence,correct
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\abseiling\-3B32lodo2M_000059_000069.mp4,abseiling,playing paintball,playing paintball,0.7056336402893066,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\abseiling\_4YTwq0-73Y_000044_000054.mp4,abseiling,abseiling,abseiling,0.9985352754592896,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\abseiling\_EDt9CNqqxk_000260_000270.mp4,abseiling,abseiling,abseiling,0.9993751645088196,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\air_drumming\_9SlRyQ2Aio_000192_000202.mp4,air drumming,air drumming,air drumming,0.294312447309494,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\air_drumming\_axE99QAhe8_000026_000036.mp4,air drumming,playing organ,playing organ,0.8960047364234924,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\air_drumming\_dbcJuKJQNs_000040_000050.mp4,air drumming,air drumming,air drumming,0.4516710340976715,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\answering_questions\_5PV4fkZisA_000139_000149.mp4,answering questions,playing recorder,playing recorder,0.573100209236145,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\answering_questions\_5VCfqc1Q0Q_000040_000050.mp4,answering questions,answering questions,answering questions,0.3049289286136627,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\answering_questions\_5W9Fxl_dFE_000186_000196.mp4,answering questions,testifying,testifying,0.9258910417556763,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applauding\0nd-Gc3HkmU_000019_000029.mp4,applauding,testifying,testifying,0.9123151302337646,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applauding\0Tq8uFakTbk_000000_000010.mp4,applauding,applauding,applauding,0.5248104929924011,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applauding\_LHpfh0rXjk_000012_000022.mp4,applauding,singing,singing,0.3558346629142761,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applying_cream\-PBcrI7pXUM_000024_000034.mp4,applying cream,applying cream,applying cream,0.9242518544197083,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applying_cream\_-mM9e_yGog_000067_000077.mp4,applying cream,crying,crying,0.2603249251842499,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applying_cream\_SUw41KlPBE_000102_000112.mp4,applying cream,applying cream,applying cream,0.9884064197540283,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\archery\_7cIhg_uLmQ_000107_000117.mp4,archery,archery,archery,0.8996928334236145,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\archery\_Buw5qNQZto_000030_000040.mp4,archery,throwing axe,throwing axe,0.7667603492736816,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\archery\_ceSzRc_kEQ_000009_000019.mp4,archery,riding or walking with horse,riding or walking with horse,0.8474941253662109,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\arm_wrestling\_6xcGAdO8Jk_000011_000021.mp4,arm wrestling,arm wrestling,arm wrestling,0.9999998807907104,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\arm_wrestling\_hwI3fEVXr8_000000_000010.mp4,arm wrestling,arm wrestling,arm wrestling,1.0,1

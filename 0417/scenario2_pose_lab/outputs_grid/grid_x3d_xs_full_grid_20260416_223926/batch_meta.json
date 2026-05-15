@@ -1,0 +1,10 @@
+{
+  "config_json": "C:\\Users\\zx\\Desktop\\scenario2_pose_lab\\scenario2_pose_lab\\grid_config_one_factor.json",
+  "manifest_csv": "C:\\Users\\zx\\Desktop\\scenario2_pose_lab\\scenario2_pose_lab\\outputs_manifest\\dataset_manifest.csv",
+  "resolved_batch_dir": "C:\\Users\\zx\\Desktop\\scenario2_pose_lab\\scenario2_pose_lab\\outputs_grid\\grid_x3d_xs_full_grid_20260416_223926",
+  "device": "cuda",
+  "mode": "full_grid",
+  "n_configs": 2916,
+  "alias_json": null,
+  "kinetics_json": null
+}

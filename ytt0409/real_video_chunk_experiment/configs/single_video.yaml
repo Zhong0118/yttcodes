@@ -1,0 +1,11 @@
+video_path: data/hand.mp4
+model_name: placeholder
+
+params:
+  ai_fps: 8
+  ai_input_size: 224
+  clip_len: 16
+  stride_len: 8
+  bandwidth_kbps: 4000
+  network_delay_ms: 20
+  jpeg_quality: 75

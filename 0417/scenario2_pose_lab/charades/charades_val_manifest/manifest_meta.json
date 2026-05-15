@@ -1,0 +1,12 @@
+{
+  "annotation_csv": "C:\\Users\\zx\\Desktop\\Charades\\Charades_v1_test.csv",
+  "classes_txt": "C:\\Users\\zx\\Desktop\\Charades\\Charades_v1_classes.txt",
+  "videos_root": "C:\\Users\\zx\\Desktop\\Charades_v1_480",
+  "clip_seconds": 2.56,
+  "stride_seconds": 1.28,
+  "min_overlap_ratio": 0.1,
+  "drop_empty_clips": true,
+  "n_classes": 157,
+  "n_clips": 38370,
+  "n_skipped_videos": 0
+}

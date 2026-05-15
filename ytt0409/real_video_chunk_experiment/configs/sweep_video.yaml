@@ -1,0 +1,45 @@
+video_path: data/hand.mp4
+model_name: placeholder
+
+baseline:
+  ai_fps: 8
+  ai_input_size: 224
+  clip_len: 16
+  stride_len: 8
+  bandwidth_kbps: 4000
+  network_delay_ms: 20
+  jpeg_quality: 75
+
+single_factor:
+  - name: sweep_fps
+    variable: ai_fps
+    values: [2, 4, 8, 12, 16]
+
+  - name: sweep_input_size
+    variable: ai_input_size
+    values: [160, 224, 320, 416]
+
+  - name: sweep_clip_len
+    variable: clip_len
+    values: [8, 16, 24, 32]
+
+  - name: sweep_bandwidth
+    variable: bandwidth_kbps
+    values: [1000, 2000, 4000, 8000, 12000]
+
+  - name: sweep_delay
+    variable: network_delay_ms
+    values: [0, 20, 50, 100, 200]
+
+two_factor:
+  - name: grid_fps_input
+    variable_x: ai_fps
+    values_x: [4, 8, 16]
+    variable_y: ai_input_size
+    values_y: [160, 224, 320]
+
+  - name: grid_bw_delay
+    variable_x: bandwidth_kbps
+    values_x: [1000, 4000, 8000]
+    variable_y: network_delay_ms
+    values_y: [0, 50, 200]

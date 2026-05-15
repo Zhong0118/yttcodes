@@ -1,0 +1,2 @@
+﻿jpeg_quality,video_top1_accuracy,chunk_top1_accuracy,prediction_switch_rate_avg,infer_avg_ms,tx_avg_ms,end_to_end_avg_ms,n_dropped_chunks
+80,0.6180555555555556,0.5926366508356061,0.15449201623221315,10.307916481091421,266.09742094785065,299.88446365917656,11.722222222222221

@@ -1,0 +1,10 @@
+{
+  "model_name": "x3d_xs",
+  "backend_used": "pytorchvideo_hub",
+  "n_dataset_labels": 400,
+  "n_model_labels": 400,
+  "n_matched_dataset_labels": 400,
+  "n_unmatched_dataset_labels": 0,
+  "n_unmatched_model_labels": 0,
+  "dataset_coverage_ratio": 1.0
+}

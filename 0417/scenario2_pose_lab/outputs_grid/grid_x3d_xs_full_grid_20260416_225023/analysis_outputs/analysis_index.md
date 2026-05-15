@@ -1,0 +1,48 @@
+# Analysis Outputs
+
+- total_pngs: 24
+- total_csvs: 16
+
+## PNG files
+- 02_overall_rankings/bar_best_tradeoff.png
+- 02_overall_rankings/bar_lowest_end_to_end_latency.png
+- 02_overall_rankings/bar_top_video_accuracy.png
+- 02_overall_rankings/scatter_accuracy_vs_e2e.png
+- 02_overall_rankings/scatter_accuracy_vs_infer.png
+- 02_overall_rankings/scatter_tradeoff_vs_e2e.png
+- 03_single_factor_trends/factor_bandwidth_mbps_vs_end_to_end_avg_ms.png
+- 03_single_factor_trends/factor_bandwidth_mbps_vs_tx_avg_ms.png
+- 03_single_factor_trends/factor_bandwidth_mbps_vs_video_top1_accuracy.png
+- 03_single_factor_trends/factor_effective_clip_frames_vs_chunk_top1_accuracy.png
+- 03_single_factor_trends/factor_effective_clip_frames_vs_end_to_end_avg_ms.png
+- 03_single_factor_trends/factor_effective_clip_frames_vs_video_top1_accuracy.png
+- 03_single_factor_trends/factor_effective_sampling_rate_vs_infer_avg_ms.png
+- 03_single_factor_trends/factor_effective_sampling_rate_vs_video_top1_accuracy.png
+- 03_single_factor_trends/factor_network_delay_ms_vs_end_to_end_avg_ms.png
+- 03_single_factor_trends/factor_network_delay_ms_vs_first_result_ms.png
+- 03_single_factor_trends/factor_network_delay_ms_vs_video_top1_accuracy.png
+- 03_single_factor_trends/factor_packet_loss_vs_chunk_top1_accuracy.png
+- 03_single_factor_trends/factor_packet_loss_vs_n_dropped_chunks.png
+- 03_single_factor_trends/factor_packet_loss_vs_video_top1_accuracy.png
+- 04_two_factor_heatmaps/heatmap_effective_clip_frames_bandwidth_mbps_end_to_end_avg_ms.png
+- 04_two_factor_heatmaps/heatmap_effective_clip_frames_bandwidth_mbps_video_top1_accuracy.png
+- 04_two_factor_heatmaps/heatmap_network_delay_ms_packet_loss_end_to_end_avg_ms.png
+- 04_two_factor_heatmaps/heatmap_network_delay_ms_packet_loss_video_top1_accuracy.png
+
+## CSV files
+- 01_preprocessed/agg_by_bandwidth_mbps.csv
+- 01_preprocessed/agg_by_effective_clip_frames.csv
+- 01_preprocessed/agg_by_effective_clip_frames_bandwidth_mbps.csv
+- 01_preprocessed/agg_by_effective_sampling_rate.csv
+- 01_preprocessed/agg_by_input_resize.csv
+- 01_preprocessed/agg_by_jpeg_quality.csv
+- 01_preprocessed/agg_by_network_delay_ms.csv
+- 01_preprocessed/agg_by_network_delay_ms_packet_loss.csv
+- 01_preprocessed/agg_by_packet_loss.csv
+- 01_preprocessed/agg_by_stride_frames.csv
+- 02_overall_rankings/best_tradeoff.csv
+- 02_overall_rankings/lowest_end_to_end_latency.csv
+- 02_overall_rankings/runs_summary_with_tradeoff.csv
+- 02_overall_rankings/top_video_accuracy.csv
+- 03_single_factor_trends/single_factor_slice_meta.csv
+- runs_summary_enhanced.csv

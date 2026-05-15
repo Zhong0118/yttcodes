@@ -1,0 +1,101 @@
+﻿video_path,gt_label,pred_label_raw,pred_label_canonical,confidence,correct
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\abseiling\-3B32lodo2M_000059_000069.mp4,abseiling,playing paintball,playing paintball,0.7056336402893066,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\abseiling\_4YTwq0-73Y_000044_000054.mp4,abseiling,abseiling,abseiling,0.9985352754592896,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\abseiling\_EDt9CNqqxk_000260_000270.mp4,abseiling,abseiling,abseiling,0.9993751645088196,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\air_drumming\_9SlRyQ2Aio_000192_000202.mp4,air drumming,air drumming,air drumming,0.294312447309494,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\air_drumming\_axE99QAhe8_000026_000036.mp4,air drumming,playing organ,playing organ,0.8960047364234924,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\air_drumming\_dbcJuKJQNs_000040_000050.mp4,air drumming,air drumming,air drumming,0.4516710340976715,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\answering_questions\_5PV4fkZisA_000139_000149.mp4,answering questions,playing recorder,playing recorder,0.573100209236145,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\answering_questions\_5VCfqc1Q0Q_000040_000050.mp4,answering questions,answering questions,answering questions,0.3049289286136627,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\answering_questions\_5W9Fxl_dFE_000186_000196.mp4,answering questions,testifying,testifying,0.9258910417556763,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applauding\0nd-Gc3HkmU_000019_000029.mp4,applauding,testifying,testifying,0.9123151302337646,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applauding\0Tq8uFakTbk_000000_000010.mp4,applauding,applauding,applauding,0.5248104929924011,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applauding\_LHpfh0rXjk_000012_000022.mp4,applauding,singing,singing,0.3558346629142761,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applying_cream\-PBcrI7pXUM_000024_000034.mp4,applying cream,applying cream,applying cream,0.9242518544197083,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applying_cream\_-mM9e_yGog_000067_000077.mp4,applying cream,crying,crying,0.2603249251842499,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\applying_cream\_SUw41KlPBE_000102_000112.mp4,applying cream,applying cream,applying cream,0.9884064197540283,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\archery\_7cIhg_uLmQ_000107_000117.mp4,archery,archery,archery,0.8996928334236145,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\archery\_Buw5qNQZto_000030_000040.mp4,archery,throwing axe,throwing axe,0.7667603492736816,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\archery\_ceSzRc_kEQ_000009_000019.mp4,archery,riding or walking with horse,riding or walking with horse,0.8474941253662109,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\arm_wrestling\_6xcGAdO8Jk_000011_000021.mp4,arm wrestling,arm wrestling,arm wrestling,0.9999998807907104,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\arm_wrestling\_hwI3fEVXr8_000000_000010.mp4,arm wrestling,arm wrestling,arm wrestling,1.0,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\arm_wrestling\_Lg6oKsuP0o_000017_000027.mp4,arm wrestling,arm wrestling,arm wrestling,0.9999986886978149,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\arranging_flowers\_-eEznKEJiM_000244_000254.mp4,arranging flowers,arranging flowers,arranging flowers,0.9996523857116699,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\arranging_flowers\_3gsKrwe8Sg_000153_000163.mp4,arranging flowers,arranging flowers,arranging flowers,0.9995220899581909,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\arranging_flowers\_lgC663579E_000009_000019.mp4,arranging flowers,arranging flowers,arranging flowers,0.9999654293060303,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\assembling_computer\_1i9FTdOxao_000088_000098.mp4,assembling computer,assembling computer,assembling computer,0.9997912049293518,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\assembling_computer\_aYskO3dbtc_000130_000140.mp4,assembling computer,assembling computer,assembling computer,0.9916986227035522,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\assembling_computer\_FYbpBvkSsU_000147_000157.mp4,assembling computer,assembling computer,assembling computer,0.9999960660934448,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\auctioning\_59Vxd5-1jQ_000254_000264.mp4,auctioning,auctioning,auctioning,0.5302941799163818,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\auctioning\_64McxlS1ck_000318_000328.mp4,auctioning,auctioning,auctioning,0.5619418025016785,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\auctioning\_bX9z03EBzM_000094_000104.mp4,auctioning,giving or receiving award,giving or receiving award,0.45125100016593933,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\baby_waking_up\_K8SThimKj8_000001_000011.mp4,baby waking up,baby waking up,baby waking up,0.7004285454750061,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\baby_waking_up\_MdfxbifBLw_000000_000010.mp4,baby waking up,baby waking up,baby waking up,0.19556023180484772,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\baby_waking_up\_oADyQKOaqk_000119_000129.mp4,baby waking up,sneezing,sneezing,0.300832599401474,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\baking_cookies\_4oL_A1gWnA_000659_000669.mp4,baking cookies,baking cookies,baking cookies,0.999998927116394,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\baking_cookies\_4R0Gx2feN8_000070_000080.mp4,baking cookies,baking cookies,baking cookies,0.458416223526001,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\baking_cookies\_BOMTx_00Uk_000042_000052.mp4,baking cookies,baking cookies,baking cookies,0.8389145731925964,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\balloon_blowing\_7_FnwK-DYo_000024_000034.mp4,balloon blowing,balloon blowing,balloon blowing,0.9901928901672363,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\balloon_blowing\_cRCgYlVkh0_000030_000040.mp4,balloon blowing,balloon blowing,balloon blowing,0.9999979734420776,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\balloon_blowing\_g9F6qPqYeM_000182_000192.mp4,balloon blowing,balloon blowing,balloon blowing,0.9999750852584839,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bandaging\_9YzPgoLKuY_000225_000235.mp4,bandaging,bandaging,bandaging,0.9710034132003784,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bandaging\_eduRRbJ2PM_000030_000040.mp4,bandaging,waxing chest,waxing chest,0.5656334757804871,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bandaging\_PvUCx30oXg_000069_000079.mp4,bandaging,bandaging,bandaging,0.4876396954059601,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\barbequing\_-lxAKTineA_000085_000095.mp4,barbequing,barbequing,barbequing,0.6868041157722473,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\barbequing\_-Ojp36QkrI_000005_000015.mp4,barbequing,barbequing,barbequing,0.9555224180221558,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\barbequing\_5z1qc3S5ck_000020_000030.mp4,barbequing,barbequing,barbequing,0.9991996884346008,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bartending\_3bG2-Dn0lY_000477_000487.mp4,bartending,bartending,bartending,0.9999017715454102,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bartending\_6EheA5xKXo_000110_000120.mp4,bartending,bartending,bartending,0.9572978615760803,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bartending\_7ER3fPMkrc_000047_000057.mp4,bartending,opening bottle,opening bottle,0.3588505983352661,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\beatboxing\_UDH34qhGMg_000096_000106.mp4,beatboxing,beatboxing,beatboxing,0.3739211857318878,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\beatboxing\_UKOkmlpiVs_000058_000068.mp4,beatboxing,kissing,kissing,0.18036101758480072,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\beatboxing\_UNuk0x1_lY_000039_000049.mp4,beatboxing,beatboxing,beatboxing,0.5627451539039612,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bee_keeping\_-P1obw35sU_000167_000177.mp4,bee keeping,bee keeping,bee keeping,0.9995726943016052,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bee_keeping\_Eh8tJJQnig_000248_000258.mp4,bee keeping,bee keeping,bee keeping,0.9991218447685242,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bee_keeping\_frTSXSFtao_000037_000047.mp4,bee keeping,plastering,plastering,0.38167786598205566,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\belly_dancing\_2fDcHvR9yE_000031_000041.mp4,belly dancing,hula hooping,hula hooping,0.8128637671470642,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\belly_dancing\_5BwgCeZ--w_000048_000058.mp4,belly dancing,tango dancing,tango dancing,0.36514899134635925,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\belly_dancing\_5XIY2kCNZI_000085_000095.mp4,belly dancing,belly dancing,belly dancing,1.0,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bench_pressing\_837xlAuAD0_000005_000015.mp4,bench pressing,bench pressing,bench pressing,0.9952983260154724,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bench_pressing\_aC9miA0hHg_000036_000046.mp4,bench pressing,bench pressing,bench pressing,0.9772289991378784,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bench_pressing\_BxII5Egp-g_000007_000017.mp4,bench pressing,bench pressing,bench pressing,0.9532995223999023,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bending_back\_-3jARyyZN8_000000_000010.mp4,bending back,bending back,bending back,0.9033422470092773,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bending_back\_9vRttDdDIA_000017_000027.mp4,bending back,bending back,bending back,0.5821058750152588,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bending_back\_EBCmMr5mvQ_000004_000014.mp4,bending back,bending back,bending back,0.9865735769271851,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bending_metal\-oYimYcdzlI_000020_000030.mp4,bending metal,building cabinet,building cabinet,0.5117514133453369,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bending_metal\_bzR115xW20_000016_000026.mp4,bending metal,bending metal,bending metal,0.9238207340240479,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bending_metal\_R6yJ4fkq7k_000014_000024.mp4,bending metal,bending metal,bending metal,0.7764704823493958,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\biking_through_snow\_-z7KAhkOnE_000005_000015.mp4,biking through snow,biking through snow,biking through snow,0.9918897747993469,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\biking_through_snow\_7JeyG1rP2I_000000_000010.mp4,biking through snow,biking through snow,biking through snow,0.9995996356010437,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\biking_through_snow\_8FefRzcWjg_000183_000193.mp4,biking through snow,ice climbing,ice climbing,0.46975868940353394,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blasting_sand\_1x3FgcOKdQ_000018_000028.mp4,blasting sand,blasting sand,blasting sand,0.9675237536430359,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blasting_sand\_2tN_EGlyaQ_000000_000010.mp4,blasting sand,blasting sand,blasting sand,0.9600690603256226,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blasting_sand\__jKqWgvrDE_000305_000315.mp4,blasting sand,blasting sand,blasting sand,0.9717509746551514,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_glass\_2OxIMqfOMc_000566_000576.mp4,blowing glass,blowing glass,blowing glass,1.0,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_glass\_4IhzohDxTg_000044_000054.mp4,blowing glass,blowing glass,blowing glass,0.9889240860939026,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_glass\_5pbsyLWSio_000019_000029.mp4,blowing glass,blowing glass,blowing glass,0.9999996423721313,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_leaves\_2LYCo94_7I_000259_000269.mp4,blowing leaves,blowing leaves,blowing leaves,0.6654075980186462,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_leaves\_9e948mdwrs_000079_000089.mp4,blowing leaves,blowing leaves,blowing leaves,0.9353972673416138,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_leaves\_CBU_T8JGi0_000177_000187.mp4,blowing leaves,walking the dog,walking the dog,0.6755453944206238,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_nose\_JGAvfGozUA_000005_000015.mp4,blowing nose,blowing nose,blowing nose,0.9133450984954834,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_nose\_JKOsbS8x5w_000008_000018.mp4,blowing nose,brushing hair,brushing hair,0.16416414082050323,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_nose\_n4IreiTb6g_000001_000011.mp4,blowing nose,blowing nose,blowing nose,0.9825862646102905,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_out_candles\_5XGUq5gpHA_000021_000031.mp4,blowing out candles,blowing out candles,blowing out candles,1.0,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_out_candles\_A-stRgqDk8_000007_000017.mp4,blowing out candles,blowing out candles,blowing out candles,0.8617888689041138,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\blowing_out_candles\_cR6OPDU2Dw_000002_000012.mp4,blowing out candles,blowing out candles,blowing out candles,0.9999247789382935,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bobsledding\_3ou-HEfbN0_000081_000091.mp4,bobsledding,bobsledding,bobsledding,0.9978935122489929,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bobsledding\_6BQPC-pY2A_000104_000114.mp4,bobsledding,bobsledding,bobsledding,0.9924489259719849,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bobsledding\_8MElhqjlic_000015_000025.mp4,bobsledding,bobsledding,bobsledding,0.9990459084510803,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bookbinding\_8nqKcFV-6A_000335_000345.mp4,bookbinding,bookbinding,bookbinding,0.990045964717865,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bookbinding\_AYbTyD2BpA_000019_000029.mp4,bookbinding,bookbinding,bookbinding,0.9835082292556763,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bookbinding\_dAssII6vac_000281_000291.mp4,bookbinding,reading book,reading book,0.8171921372413635,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bouncing_on_trampoline\_5i1FMrS4R8_000003_000013.mp4,bouncing on trampoline,bouncing on trampoline,bouncing on trampoline,0.9793052077293396,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bouncing_on_trampoline\_8hjTEhdWKc_000052_000062.mp4,bouncing on trampoline,bouncing on trampoline,bouncing on trampoline,0.9294432997703552,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bouncing_on_trampoline\_b3XHP2olJA_000116_000126.mp4,bouncing on trampoline,gymnastics tumbling,gymnastics tumbling,0.3354821801185608,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bowling\_2f3DMpL24o_000004_000014.mp4,bowling,bowling,bowling,1.0,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bowling\_6vEp4SVjoA_000039_000049.mp4,bowling,bowling,bowling,0.9927391409873962,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\bowling\_9FaB6lsvyY_000004_000014.mp4,bowling,bowling,bowling,1.0,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\braiding_hair\_1RzW2_HTzw_000239_000249.mp4,braiding hair,braiding hair,braiding hair,0.9991137385368347,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\braiding_hair\_ARWJMaHWFQ_000168_000178.mp4,braiding hair,massaging person's head,massaging person s head,0.8077474236488342,0
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\braiding_hair\__4frZhaVDs_000004_000014.mp4,braiding hair,braiding hair,braiding hair,0.5658395290374756,1
+C:\Users\zx\Desktop\scenario2_pose_lab\scenario2_pose_lab\tiny-Kinetics-400\breading_or_breadcrumbing\_2ZnViCaSwo_000490_000500.mp4,breading or breadcrumbing,cooking egg,cooking egg,0.44868743419647217,0

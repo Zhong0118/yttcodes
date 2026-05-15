@@ -1,0 +1,17 @@
+{
+  "name": "chunk_frames_4__input_resize_182__sampling_rate_12__stride_frames_4__bandwidth_mbps_4_0__network_delay_ms_20_0__packet_loss_0_0__jpeg_quality_80",
+  "model_name": "x3d_xs",
+  "input_resize": 182,
+  "input_crop": 182,
+  "chunk_frames": 4,
+  "sampling_rate": 12,
+  "stride_frames": 4,
+  "bandwidth_mbps": 4.0,
+  "network_delay_ms": 20.0,
+  "packet_loss": 0.0,
+  "queue_delay_ms": 0.0,
+  "jpeg_quality": 80,
+  "max_videos": 20,
+  "max_frames_per_video": null,
+  "seed": 42
+}

@@ -1,0 +1,68 @@
+# ===== 视频文件（公开数据集，体积大，不需要版本控制）=====
+*.avi
+*.mp4
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ===== 运行结果（本地生成，不需要上传）=====
+results/
+output/
+outputs/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ===== 虚拟环境 =====
+venv/
+.venv/
+env/
+.env/
+
+# ===== IDE / 编辑器 =====
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
+
+# ===== 压缩包 =====
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ===== 大文件 / 模型文件 =====
+*.h5
+*.pth
+*.pt
+*.onnx
+*.pb
+*.ckpt
+*.safetensors
+*.bin  # Warning: may match other binaries — uncomment only if needed
+
+# ===== 环境变量 =====
+.env
+.env.local
+.env.*.local
+
+# ===== 日志 =====
+*.log
+logs/

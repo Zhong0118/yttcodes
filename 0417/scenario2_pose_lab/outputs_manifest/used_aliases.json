@@ -1,0 +1,12 @@
+{
+  "run": "running",
+  "jog": "running",
+  "drink": "drinking",
+  "eat": "eating",
+  "walk": "walking",
+  "sit": "sitting",
+  "jump rope": "jumping rope",
+  "jumping_jacks": "jumping jacks",
+  "pushup": "push up",
+  "pullup": "pull up"
+}

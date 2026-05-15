@@ -1,0 +1,15 @@
+{
+  "model_name": "x3d_xs",
+  "backend_used": "pytorchvideo_hub",
+  "effective_clip_frames": 4,
+  "effective_sampling_rate": 12,
+  "input_resize": 182,
+  "input_crop": 182,
+  "n_total_manifest_rows": 1200,
+  "n_evaluated": 1200,
+  "n_skipped": 0,
+  "top1_accuracy": 0.7625,
+  "n_gt_classes_in_eval": 400,
+  "n_pred_classes_in_eval": 396,
+  "avg_confidence": 0.7849681547610089
+}

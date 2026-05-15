@@ -1,0 +1,35 @@
+﻿label,n_samples,accuracy
+abseiling,3,0.6666666666666666
+air drumming,3,0.6666666666666666
+answering questions,3,0.3333333333333333
+applauding,3,0.3333333333333333
+applying cream,3,0.6666666666666666
+archery,3,0.3333333333333333
+arm wrestling,3,1.0
+arranging flowers,3,1.0
+assembling computer,3,1.0
+auctioning,3,0.6666666666666666
+baby waking up,3,0.6666666666666666
+baking cookies,3,1.0
+balloon blowing,3,1.0
+bandaging,3,0.6666666666666666
+barbequing,3,1.0
+bartending,3,0.6666666666666666
+beatboxing,3,0.6666666666666666
+bee keeping,3,0.6666666666666666
+belly dancing,3,0.3333333333333333
+bench pressing,3,1.0
+bending back,3,1.0
+bending metal,3,0.6666666666666666
+biking through snow,3,0.6666666666666666
+blasting sand,3,1.0
+blowing glass,3,1.0
+blowing leaves,3,0.6666666666666666
+blowing nose,3,0.6666666666666666
+blowing out candles,3,1.0
+bobsledding,3,1.0
+bookbinding,3,0.6666666666666666
+bouncing on trampoline,3,0.6666666666666666
+bowling,3,1.0
+braiding hair,3,0.6666666666666666
+breading or breadcrumbing,1,0.0

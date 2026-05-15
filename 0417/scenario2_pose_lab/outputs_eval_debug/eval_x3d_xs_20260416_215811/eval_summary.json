@@ -1,0 +1,11 @@
+{
+  "model_name": "x3d_xs",
+  "backend_used": "pytorchvideo_hub",
+  "n_total_manifest_rows": 20,
+  "n_evaluated": 20,
+  "n_skipped": 0,
+  "top1_accuracy": 0.55,
+  "n_gt_classes_in_eval": 7,
+  "n_pred_classes_in_eval": 15,
+  "avg_confidence": 0.7314671576023102
+}

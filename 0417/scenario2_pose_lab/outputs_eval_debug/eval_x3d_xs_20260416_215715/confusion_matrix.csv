@@ -1,0 +1,16 @@
+﻿gt,abseiling,air drumming,answering questions,applauding,applying cream,archery,arm wrestling,crying,playing organ,playing paintball,playing recorder,riding or walking with horse,singing,testifying,throwing axe
+abseiling,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+air drumming,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0
+answering questions,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+applauding,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+applying cream,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+archery,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+arm wrestling,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+crying,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+playing organ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+playing paintball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+playing recorder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+riding or walking with horse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+singing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+testifying,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+throwing axe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

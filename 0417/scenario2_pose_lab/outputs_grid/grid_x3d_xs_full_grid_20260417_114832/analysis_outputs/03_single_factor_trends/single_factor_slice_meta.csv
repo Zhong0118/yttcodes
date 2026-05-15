@@ -1,0 +1,6 @@
+﻿factor,slice_type,n_rows,fixed_effective_sampling_rate,fixed_stride_frames,fixed_bandwidth_mbps,fixed_network_delay_ms,fixed_packet_loss,fixed_input_resize,fixed_jpeg_quality,fixed_effective_clip_frames
+effective_clip_frames,fixed_slice,3,6.0,4,1.0,20.0,0.01,182,80,
+bandwidth_mbps,fixed_slice,3,6.0,4,,20.0,0.01,182,80,4.0
+packet_loss,fixed_slice,3,6.0,4,1.0,20.0,,182,80,4.0
+effective_sampling_rate,fixed_slice,2,,4,1.0,20.0,0.01,182,80,4.0
+network_delay_ms,fixed_slice,3,6.0,4,1.0,,0.01,182,80,4.0

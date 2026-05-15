@@ -1,0 +1,13 @@
+{
+  "manifest_csv": "C:\\Users\\zx\\Desktop\\scenario2_pose_lab\\scenario2_pose_lab\\outputs_manifest\\dataset_manifest.csv",
+  "resolved_out_dir": "outputs_eval_debug\\eval_x3d_xs_20260416_215938",
+  "model_name": "x3d_xs",
+  "device": "cuda",
+  "limit": 20,
+  "alias_json": null,
+  "kinetics_json": null,
+  "num_frames": 4,
+  "sampling_rate": 12,
+  "side_size": 182,
+  "crop_size": 182
+}

@@ -1,0 +1,16 @@
+﻿gt,abseiling,air drumming,answering questions,applauding,applying cream,archery,arm wrestling,folding napkins,giving or receiving award,marching,massaging back,no_prediction,playing paintball,riding or walking with horse,testifying
+abseiling,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+air drumming,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+answering questions,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+applauding,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+applying cream,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0
+archery,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0
+arm wrestling,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+folding napkins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+giving or receiving award,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+marching,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+massaging back,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+no_prediction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+playing paintball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+riding or walking with horse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+testifying,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

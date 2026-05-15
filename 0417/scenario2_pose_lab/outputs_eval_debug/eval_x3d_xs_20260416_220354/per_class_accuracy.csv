@@ -1,0 +1,401 @@
+﻿label,n_samples,accuracy
+abseiling,3,0.6666666666666666
+air drumming,3,0.6666666666666666
+answering questions,3,0.3333333333333333
+applauding,3,0.3333333333333333
+applying cream,3,0.6666666666666666
+archery,3,0.3333333333333333
+arm wrestling,3,1.0
+arranging flowers,3,1.0
+assembling computer,3,1.0
+auctioning,3,0.6666666666666666
+baby waking up,3,0.6666666666666666
+baking cookies,3,1.0
+balloon blowing,3,1.0
+bandaging,3,0.6666666666666666
+barbequing,3,1.0
+bartending,3,0.6666666666666666
+beatboxing,3,0.6666666666666666
+bee keeping,3,0.6666666666666666
+belly dancing,3,0.3333333333333333
+bench pressing,3,1.0
+bending back,3,1.0
+bending metal,3,0.6666666666666666
+biking through snow,3,0.6666666666666666
+blasting sand,3,1.0
+blowing glass,3,1.0
+blowing leaves,3,0.6666666666666666
+blowing nose,3,0.6666666666666666
+blowing out candles,3,1.0
+bobsledding,3,1.0
+bookbinding,3,0.6666666666666666
+bouncing on trampoline,3,0.6666666666666666
+bowling,3,1.0
+braiding hair,3,0.6666666666666666
+breading or breadcrumbing,3,0.6666666666666666
+breakdancing,3,1.0
+brush painting,3,0.3333333333333333
+brushing hair,3,0.6666666666666666
+brushing teeth,3,0.6666666666666666
+building cabinet,3,0.6666666666666666
+building shed,3,1.0
+bungee jumping,3,1.0
+busking,3,1.0
+canoeing or kayaking,3,1.0
+capoeira,3,1.0
+carrying baby,3,0.6666666666666666
+cartwheeling,3,0.3333333333333333
+carving pumpkin,3,1.0
+catching fish,3,1.0
+catching or throwing baseball,3,0.3333333333333333
+catching or throwing frisbee,3,0.3333333333333333
+catching or throwing softball,3,1.0
+celebrating,3,1.0
+changing oil,3,0.6666666666666666
+changing wheel,3,1.0
+checking tires,3,1.0
+cheerleading,3,1.0
+chopping wood,3,0.6666666666666666
+clapping,3,0.6666666666666666
+clay pottery making,3,1.0
+clean and jerk,3,1.0
+cleaning floor,3,1.0
+cleaning gutters,3,0.6666666666666666
+cleaning pool,3,1.0
+cleaning shoes,3,0.6666666666666666
+cleaning toilet,3,1.0
+cleaning windows,3,0.6666666666666666
+climbing a rope,3,0.6666666666666666
+climbing ladder,3,1.0
+climbing tree,3,0.6666666666666666
+contact juggling,3,1.0
+cooking chicken,3,0.3333333333333333
+cooking egg,3,0.6666666666666666
+cooking on campfire,3,0.6666666666666666
+cooking sausages,3,1.0
+counting money,3,0.6666666666666666
+country line dancing,3,1.0
+cracking neck,3,1.0
+crawling baby,3,1.0
+crossing river,3,1.0
+crying,3,0.6666666666666666
+curling hair,3,0.6666666666666666
+cutting nails,3,0.6666666666666666
+cutting pineapple,3,1.0
+cutting watermelon,3,0.6666666666666666
+dancing ballet,3,1.0
+dancing charleston,3,1.0
+dancing gangnam style,3,0.6666666666666666
+dancing macarena,3,0.6666666666666666
+deadlifting,3,1.0
+decorating the christmas tree,3,1.0
+digging,3,1.0
+dining,3,0.6666666666666666
+disc golfing,3,1.0
+diving cliff,3,0.6666666666666666
+dodgeball,3,0.6666666666666666
+doing aerobics,3,0.6666666666666666
+doing laundry,3,0.3333333333333333
+doing nails,3,1.0
+drawing,3,0.6666666666666666
+dribbling basketball,3,0.6666666666666666
+drinking,3,0.0
+drinking beer,3,0.0
+drinking shots,3,0.0
+driving car,3,1.0
+driving tractor,3,1.0
+drop kicking,3,0.3333333333333333
+drumming fingers,3,0.6666666666666666
+dunking basketball,3,0.6666666666666666
+dying hair,3,1.0
+eating burger,3,0.6666666666666666
+eating cake,3,0.6666666666666666
+eating carrots,3,1.0
+eating chips,3,0.3333333333333333
+eating doughnuts,3,0.3333333333333333
+eating hotdog,3,0.3333333333333333
+eating ice cream,3,0.3333333333333333
+eating spaghetti,3,1.0
+eating watermelon,3,1.0
+egg hunting,3,0.6666666666666666
+exercising arm,3,0.6666666666666666
+exercising with an exercise ball,3,0.3333333333333333
+extinguishing fire,3,1.0
+faceplanting,3,0.6666666666666666
+feeding birds,3,0.6666666666666666
+feeding fish,3,1.0
+feeding goats,3,1.0
+filling eyebrows,3,0.3333333333333333
+finger snapping,3,0.3333333333333333
+fixing hair,3,0.0
+flipping pancake,3,1.0
+flying kite,3,0.6666666666666666
+folding clothes,3,0.6666666666666666
+folding napkins,3,0.3333333333333333
+folding paper,3,1.0
+front raises,3,0.3333333333333333
+frying vegetables,3,1.0
+garbage collecting,3,1.0
+gargling,3,1.0
+getting a haircut,3,0.3333333333333333
+getting a tattoo,3,1.0
+giving or receiving award,3,1.0
+golf chipping,3,1.0
+golf driving,3,1.0
+golf putting,3,0.6666666666666666
+grinding meat,3,0.6666666666666666
+grooming dog,3,1.0
+grooming horse,3,1.0
+gymnastics tumbling,3,0.6666666666666666
+hammer throw,3,1.0
+headbanging,3,0.6666666666666666
+headbutting,3,0.6666666666666666
+high jump,3,1.0
+high kick,3,0.3333333333333333
+hitting baseball,3,1.0
+hockey stop,3,0.3333333333333333
+holding snake,3,0.6666666666666666
+hopscotch,3,1.0
+hoverboarding,3,1.0
+hugging,3,0.0
+hula hooping,3,1.0
+hurdling,3,1.0
+hurling sport,3,0.6666666666666666
+ice climbing,3,1.0
+ice fishing,3,1.0
+ice skating,3,0.6666666666666666
+ironing,3,0.6666666666666666
+javelin throw,3,1.0
+jetskiing,3,0.3333333333333333
+jogging,3,1.0
+juggling balls,3,1.0
+juggling fire,3,0.6666666666666666
+juggling soccer ball,3,0.3333333333333333
+jumping into pool,3,1.0
+jumpstyle dancing,3,1.0
+kicking field goal,3,1.0
+kicking soccer ball,3,0.6666666666666666
+kissing,3,0.6666666666666666
+kitesurfing,3,0.6666666666666666
+knitting,3,0.6666666666666666
+krumping,3,0.6666666666666666
+laughing,3,0.3333333333333333
+laying bricks,3,1.0
+long jump,3,0.6666666666666666
+lunge,3,0.6666666666666666
+making a cake,3,0.3333333333333333
+making a sandwich,3,0.3333333333333333
+making bed,3,1.0
+making jewelry,3,0.3333333333333333
+making pizza,3,1.0
+making snowman,3,1.0
+making sushi,3,0.6666666666666666
+making tea,3,0.6666666666666666
+marching,3,1.0
+massaging back,3,0.6666666666666666
+massaging feet,3,1.0
+massaging legs,3,1.0
+massaging person s head,3,1.0
+milking cow,3,1.0
+mopping floor,3,0.6666666666666666
+motorcycling,3,0.6666666666666666
+moving furniture,3,1.0
+mowing lawn,3,1.0
+news anchoring,3,0.6666666666666666
+opening bottle,3,0.3333333333333333
+opening present,3,1.0
+paragliding,3,1.0
+parasailing,3,1.0
+parkour,3,0.3333333333333333
+passing american football in game,3,1.0
+passing american football not in game,3,0.6666666666666666
+peeling apples,3,1.0
+peeling potatoes,3,1.0
+petting animal not cat,3,0.6666666666666666
+petting cat,3,1.0
+picking fruit,3,1.0
+planting trees,3,0.6666666666666666
+plastering,3,0.6666666666666666
+playing accordion,3,1.0
+playing badminton,3,1.0
+playing bagpipes,3,1.0
+playing basketball,3,0.6666666666666666
+playing bass guitar,3,1.0
+playing cards,3,0.3333333333333333
+playing cello,3,1.0
+playing chess,3,1.0
+playing clarinet,3,1.0
+playing controller,3,1.0
+playing cricket,3,1.0
+playing cymbals,3,1.0
+playing didgeridoo,3,1.0
+playing drums,3,1.0
+playing flute,3,0.3333333333333333
+playing guitar,3,1.0
+playing harmonica,3,0.6666666666666666
+playing harp,3,1.0
+playing ice hockey,3,1.0
+playing keyboard,3,1.0
+playing kickball,3,1.0
+playing monopoly,3,1.0
+playing organ,3,0.6666666666666666
+playing paintball,3,0.6666666666666666
+playing piano,3,1.0
+playing poker,3,1.0
+playing recorder,3,1.0
+playing saxophone,3,1.0
+playing squash or racquetball,3,1.0
+playing tennis,3,1.0
+playing trombone,3,0.6666666666666666
+playing trumpet,3,1.0
+playing ukulele,3,1.0
+playing violin,3,1.0
+playing volleyball,3,0.3333333333333333
+playing xylophone,3,1.0
+pole vault,3,1.0
+presenting weather forecast,3,1.0
+pull ups,3,1.0
+pumping fist,3,0.3333333333333333
+pumping gas,3,0.3333333333333333
+punching bag,3,1.0
+punching person boxing,3,0.6666666666666666
+push up,3,0.6666666666666666
+pushing car,3,1.0
+pushing cart,3,1.0
+pushing wheelchair,3,1.0
+reading book,3,0.6666666666666666
+reading newspaper,3,1.0
+recording music,3,0.6666666666666666
+riding a bike,3,1.0
+riding camel,3,1.0
+riding elephant,3,0.6666666666666666
+riding mechanical bull,3,1.0
+riding mountain bike,3,0.6666666666666666
+riding mule,3,0.6666666666666666
+riding or walking with horse,3,0.3333333333333333
+riding scooter,3,0.3333333333333333
+riding unicycle,3,0.6666666666666666
+ripping paper,3,0.6666666666666666
+robot dancing,3,0.6666666666666666
+rock climbing,3,0.6666666666666666
+rock scissors paper,3,0.0
+roller skating,3,0.6666666666666666
+running on treadmill,3,0.6666666666666666
+sailing,3,0.6666666666666666
+salsa dancing,3,1.0
+sanding floor,3,1.0
+scrambling eggs,3,1.0
+scuba diving,3,1.0
+setting table,3,1.0
+shaking hands,3,0.3333333333333333
+shaking head,3,0.3333333333333333
+sharpening knives,3,0.3333333333333333
+sharpening pencil,3,0.6666666666666666
+shaving head,3,0.6666666666666666
+shaving legs,3,0.6666666666666666
+shearing sheep,3,1.0
+shining shoes,3,0.6666666666666666
+shooting basketball,3,0.3333333333333333
+shooting goal soccer,3,0.6666666666666666
+shot put,3,1.0
+shoveling snow,3,1.0
+shredding paper,3,0.6666666666666666
+shuffling cards,3,1.0
+side kick,3,0.3333333333333333
+sign language interpreting,3,0.6666666666666666
+singing,3,1.0
+situp,3,0.6666666666666666
+skateboarding,3,0.6666666666666666
+ski jumping,3,0.6666666666666666
+skiing crosscountry,3,0.6666666666666666
+skiing not slalom or crosscountry,3,0.6666666666666666
+skiing slalom,3,0.6666666666666666
+skipping rope,3,0.6666666666666666
+skydiving,3,0.6666666666666666
+slacklining,3,1.0
+slapping,3,0.3333333333333333
+sled dog racing,3,1.0
+smoking,3,0.6666666666666666
+smoking hookah,3,1.0
+snatch weight lifting,3,0.6666666666666666
+sneezing,3,0.0
+sniffing,3,0.0
+snorkeling,3,0.6666666666666666
+snowboarding,3,0.3333333333333333
+snowkiting,3,0.3333333333333333
+snowmobiling,3,0.6666666666666666
+somersaulting,3,0.3333333333333333
+spinning poi,3,1.0
+spray painting,3,0.6666666666666666
+spraying,3,0.6666666666666666
+springboard diving,3,1.0
+squat,3,0.6666666666666666
+sticking tongue out,3,0.3333333333333333
+stomping grapes,3,1.0
+stretching arm,3,0.3333333333333333
+stretching leg,3,0.6666666666666666
+strumming guitar,3,1.0
+surfing crowd,3,1.0
+surfing water,3,0.3333333333333333
+sweeping floor,3,1.0
+swimming backstroke,3,1.0
+swimming breast stroke,3,0.3333333333333333
+swimming butterfly stroke,3,0.6666666666666666
+swing dancing,3,0.6666666666666666
+swinging legs,3,1.0
+swinging on something,3,0.6666666666666666
+sword fighting,3,0.3333333333333333
+tai chi,3,1.0
+taking a shower,3,0.6666666666666666
+tango dancing,3,1.0
+tap dancing,3,1.0
+tapping guitar,3,1.0
+tapping pen,3,1.0
+tasting beer,3,0.6666666666666666
+tasting food,3,0.6666666666666666
+testifying,3,0.6666666666666666
+texting,3,0.6666666666666666
+throwing axe,3,0.6666666666666666
+throwing ball,3,0.6666666666666666
+throwing discus,3,1.0
+tickling,3,0.3333333333333333
+tobogganing,3,1.0
+tossing coin,3,0.3333333333333333
+tossing salad,3,0.6666666666666666
+training dog,3,1.0
+trapezing,3,1.0
+trimming or shaving beard,3,0.6666666666666666
+trimming trees,3,0.6666666666666666
+triple jump,3,1.0
+tying bow tie,3,0.6666666666666666
+tying knot not on a tie,3,0.3333333333333333
+tying tie,3,0.6666666666666666
+unboxing,3,0.6666666666666666
+unloading truck,3,0.3333333333333333
+using computer,3,1.0
+using remote controller not gaming,3,1.0
+using segway,3,1.0
+vault,3,1.0
+waiting in line,3,1.0
+walking the dog,3,1.0
+washing dishes,3,1.0
+washing feet,3,0.6666666666666666
+washing hair,3,1.0
+washing hands,3,1.0
+water skiing,3,0.6666666666666666
+water sliding,3,0.6666666666666666
+watering plants,3,1.0
+waxing back,3,1.0
+waxing chest,3,1.0
+waxing eyebrows,3,0.6666666666666666
+waxing legs,3,0.6666666666666666
+weaving basket,3,1.0
+welding,3,1.0
+whistling,3,0.6666666666666666
+windsurfing,3,1.0
+wrapping present,3,0.6666666666666666
+wrestling,3,1.0
+writing,3,1.0
+yawning,3,0.6666666666666666
+yoga,3,0.3333333333333333
+zumba,3,1.0

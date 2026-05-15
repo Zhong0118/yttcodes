@@ -1,0 +1,42 @@
+{
+  "manifest_csv": "C:/Users/zx/Desktop/scenario2_pose_lab/scenario2_pose_lab/outputs_manifest/dataset_manifest.csv",
+  "out_dir": "outputs_grid",
+  "mode": "full_grid",
+  "alias_json": null,
+  "kinetics_json": null,
+  "device": "cuda",
+
+  "base_config": {
+    "name": "base",
+    "model_name": "x3d_xs",
+
+    "input_resize": 182,
+    "input_crop": 182,
+
+    "chunk_frames": 4,
+    "sampling_rate": 12,
+    "stride_frames": 4,
+
+    "bandwidth_mbps": 8.0,
+    "network_delay_ms": 20.0,
+    "packet_loss": 0.0,
+    "queue_delay_ms": 0.0,
+
+    "jpeg_quality": 80,
+
+    "max_videos": 20,
+    "max_frames_per_video": null,
+    "seed": 42
+  },
+
+  "grid": {
+    "chunk_frames": [4, 8, 16],
+    "input_resize": [182],
+    "sampling_rate": [6, 12],
+    "stride_frames": [4, 8],
+    "bandwidth_mbps": [1.0, 4.0, 8.0],
+    "network_delay_ms": [20.0, 50.0, 100.0],
+    "packet_loss": [0.01, 0.05, 0.2],
+    "jpeg_quality": [80]
+  }
+}
